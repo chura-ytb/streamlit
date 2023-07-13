@@ -11,8 +11,8 @@ st.write('st.write_ \:Hello, _World!_ emoji　:sunglasses:')
 st.write('st.write* \:Hello, *World!* emoji　:sunglasses:')
 st.text('st.text : Hello, *World!* emoji　:sunglasses:')
 st.markdown("""
-## 鳶です
-:red[鳶祐治]と申します。
+## TBです
+:red[TBTB]と申します。
 
 ### 概要
 7/1入社です。
